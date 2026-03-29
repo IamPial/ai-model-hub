@@ -7,6 +7,15 @@ const AllModels = ({ modelsPromise }) => {
   return (
     <div>
       <h1>Hello Models</h1>
+      <div className="grid grid-cols-3 gap-3 container mx-auto">
+        {data.map((model) => {
+          return (
+            <div key={model.id}>
+              <h2>{model.title}</h2>
+            </div>
+          );
+        })}
+      </div>
     </div>
   );
 };
