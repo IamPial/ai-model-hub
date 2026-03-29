@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "title": "ChatGPT",
+    "image": "https://i.ibb.co.com/SwcR3tCP/chat-GPT.jpg",
+    "price": 20,
+    "status": ["most popular"],
+    "description": "Advanced AI model for text generation, coding, and reasoning."
+  },
+  {
+    "id": 2,
+    "title": "Gemini",
+    "image": "https://i.ibb.co.com/4wRFBy1q/gemini.jpg",
+    "price": "free",
+    "status": ["popular"],
+    "description": "Google’s multimodal AI model for handling large context inputs."
+  },
+  {
+    "id": 3,
+    "title": "Claude",
+    "image": "https://i.ibb.co.com/Z1mZzvjg/claude.png",
+    "price": 25,
+    "status": ["favorite"],
+    "description": "AI assistant focused on safe and helpful long-form reasoning."
+  },
+  {
+    "id": 4,
+    "title": "LLaMA",
+    "image": "https://i.ibb.co.com/m5vV8bcF/llama.avif",
+    "price": "free",
+    "status": ["favorite"],
+    "description": "Open-source AI model designed for research and local deployment."
+  },
+  {
+    "id": 5,
+    "title": "Mistral",
+    "image": "https://i.ibb.co.com/1JzMf9W6/mistral.webp",
+    "price": 18,
+    "status": ["popular"],
+    "description": "High-performance AI model with strong multilingual capabilities."
+  },
+
+  {
+    "id": 6,
+    "title": "DeepSeek",
+    "image": "https://i.ibb.co.com/4Z6mDwCw/deepseek.png",
+    "price": "free",
+    "status": ["trending"],
+    "description": "Emerging AI model known for coding and reasoning efficiency."
+  },
+  {
+    "id": 7,
+    "title": "Cohere",
+    "image": "https://i.ibb.co.com/60NcvNtB/cohere.png",
+    "price": 12,
+    "status": ["popular"],
+    "description": "Enterprise AI model optimized for business and retrieval tasks."
+  },
+  {
+    "id": 8,
+    "title": "PaLM",
+    "image": "https://i.ibb.co.com/Vc7c3NtP/palm.png",
+    "price": "free",
+    "status": ["favorite"],
+    "description": "Google’s language model focused on reasoning and multilingual tasks."
+  },
+  {
+    "id": 9,
+    "title": "Stable Diffusion",
+    "image": "https://i.ibb.co.com/7HfDpG3/stable.jpg",
+    "price": "free",
+    "status": ["popular"],
+    "description": "AI model for generating high-quality images from text prompts."
+  },
+  {
+    "id": 10,
+    "title": "DALL·E",
+    "image": "https://i.ibb.co.com/Rp0dt3Qs/dall-e.jpg",
+    "price": 15,
+    "status": ["popular"],
+    "description": "AI model specialized in creative image generation from text."
+  },
+  {
+    "id": 11,
+    "title": "Whisper",
+    "image": "https://i.ibb.co.com/qL0fTWPR/whisper.png",
+    "price": "free",
+    "status": ["trending"],
+    "description": "Speech-to-text AI model for transcription and translation."
+  },
+  {
+    "id": 12,
+    "title": "Midjourney",
+    "image": "https://i.ibb.co.com/PZqJt7Y4/mid-journey.jpg",
+    "price": 10,
+    "status": ["most popular"],
+    "description": "AI tool for generating artistic and high-quality images."
+  }
+]
