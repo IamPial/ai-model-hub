@@ -12,9 +12,8 @@ const App = () => {
   const modelsPromise = fetchData();
   return (
     <div>
-      <h1>Hello World</h1>
       <Suspense
-        fallback={<div class="$$loading $$loading-bars $$loading-xl"></div>}
+        fallback={<div className="$$loading $$loading-bars $$loading-xl"></div>}
       >
         <AllModels modelsPromise={modelsPromise} />
       </Suspense>
